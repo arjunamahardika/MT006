@@ -1,4 +1,4 @@
-# MT106
+# MT006
 
 Whitelabel Error Page
  
